@@ -41,3 +41,5 @@ Efficiency: Saves hours of manual research by providing instant, well-informed r
 Customization: Easily tailored to individual or institutional needs.
 Scalability: Supports a wide range of scientific and educational workflows.
 With its unparalleled ability to bridge knowledge gaps and streamline workflows, BioGPT is a game-changer in making life sciences more accessible, efficient, and impactful.
+![WhatsApp Image 2024-11-22 at 3 41 04 PM](https://github.com/user-attachments/assets/9e5f4f64-a502-4fd5-ac03-b73c0b49ad20)
+
